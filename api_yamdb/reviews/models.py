@@ -4,6 +4,7 @@ from django.db import models
 
 from reviews.validators import validate_year_to_current
 
+
 User = get_user_model()
 
 
